@@ -12,7 +12,7 @@
 
 ## 檔案說明
 * `NBA-Weekly-Report.zip`: Power Automate 流程套件（可匯入至個人環境使用）。
-* `/images`: 流程架構邏輯圖。
+* `images`: 流程架構邏輯圖。
 
 ## 醫資領域延伸應用 (Future Applications)
 此自動化邏輯不僅限於運動賽事，未來可平行移植於：
