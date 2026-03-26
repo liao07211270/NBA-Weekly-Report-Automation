@@ -14,6 +14,8 @@
 * `NBA-Weekly-Report.zip`: Power Automate 流程套件（可匯入至個人環境使用）。
 * `images`: 流程架構邏輯圖。
 
+  ![Flowchart](images.png)
+
 ## 醫資領域延伸應用 (Future Applications)
 此自動化邏輯不僅限於運動賽事，未來可平行移植於：
 1. **主動式醫療監測**：每週自動彙整病患異常檢驗值報告並推送給負責醫師。
