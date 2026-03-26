@@ -1,8 +1,8 @@
 # NBA 每週賽事自動化報表系統
 
 ## 專案簡介
-本專案利用 **Microsoft Power Automate** 實現 NBA 賽事動態監控。
-透過串接 ESPN RSS 數據，系統每週定時過濾特定球隊（如：Spurs）之新聞，並自動彙整發送至指定電子郵件。
+本專案利用 **Microsoft Power Automate** 實現 NBA 相關動態監控。
+透過串接 ESPN RSS 數據，系統每週定時過濾特定關鍵字(如:NBA、Spurs)之新聞，並自動彙整發送至指定電子郵件。
 
 ## 技術關鍵點 (Technical Highlights)
 * **Schedule Trigger**: 設定週一早上定時執行，確保獲取週末賽事總結。
